@@ -1,2 +1,2 @@
-# pdesap1001.github.io
-Ejemplo de autenticación con Firebase y Google.
+# rickchat
+Ejemplo de un chat y acceso a Firebase (Firestore con Google)
