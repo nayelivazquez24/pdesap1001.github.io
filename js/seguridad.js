@@ -30,6 +30,7 @@ export async function
   await getAuth().
     signInWithRedirect(provider);
 }
+}
 
 /** @param {import(
     "../lib/tiposFire.js").User}
